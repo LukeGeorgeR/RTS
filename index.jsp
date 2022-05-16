@@ -12,7 +12,7 @@
       </div>
       </div>
     </div>
-
+    <h1><% out.println("Hello World")%></h1>
     <div class="popup" id="popup-comeback">Come back Soon!</div>
     <div class="popup" id="popup-thankyou">Thank you!</div>
   </body>
