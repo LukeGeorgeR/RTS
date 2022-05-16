@@ -15,7 +15,7 @@ const handleClick = (e) => {
     const popup = document.getElementById(targetEL.dataset.popup);
     popup.classList.add('is-shown');
 
-    setTimeout(() => { popup.classList.remove('is-shown') }, 8000);
+    setTimeout(() => { popup.classList.remove('is-shown') }, 1000);
     return;
   }
 
