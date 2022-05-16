@@ -5,6 +5,12 @@
   width: 100%;
 }
 
+h1{
+  position: top;
+  color : blue;
+  text-align: center;
+}
+
 html {
   overflow: hidden;
 }
