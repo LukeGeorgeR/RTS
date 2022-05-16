@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app
+<web-app>
+    <!-- General description of your web application -->
+
+    <display-name>Underground Railway Ticketing System</display-name>
+    <description>
+      This Application is intended to be an Assignment.!
+    </description>
+
+</web-app>
